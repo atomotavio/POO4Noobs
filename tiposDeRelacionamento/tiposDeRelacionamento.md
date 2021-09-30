@@ -14,5 +14,4 @@ Já a multiplicidade busca estabelecer como as classes que formam uma associaç�
  
 ![multiplicidade](img/multiplicadade.jpg)
 
-<!-- TODO colocar link -->
-[Proximo capitulo]()
+[Proximo capitulo](../referencias/ReferenciasBibliograficas.md)

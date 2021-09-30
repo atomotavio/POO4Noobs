@@ -32,4 +32,4 @@ Outro conceito importante que vai nos auxiliar no entendimento da POO é o de ev
  - C#
 
 <!-- TODO arrumar link -->
-[Próximo capítulo](pilaresDaPOO/pilaresDaPOO.md)
+[Próximo capítulo](../pilaresDaPOO/pilaresDaPOO.md)

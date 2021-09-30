@@ -15,5 +15,4 @@ Os níveis de acesso servem para definir o tipo de permissão a um determinado a
 - Protegido: somente classes derivadas da original tem total acesso aos atributos e métodos.
 - Private: o acesso aos dados é feito somente dentro da classe onde ele foi declarado.
 
-<!-- TODO colocar link -->
-[Próximo capítulo]()
+[Próximo capítulo](heranca.md)

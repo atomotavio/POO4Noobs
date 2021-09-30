@@ -24,5 +24,4 @@ Como o próprio nome diz, é a transferencia de caracteristicas de uma classe pa
 - Herança simples: herança entre duas classes;
 - Herança múltipla: quando uma classe herda características de duas ou mais classes-pai;
 
-<!--  TODO colocar link -->
-[Próximo capítulo]()
+[Próximo capítulo](abstracao.md)

@@ -10,5 +10,4 @@ Também ajuda no reaproveitamento do código e torna as funcionalidades do progr
 
 ![comunicar](img/comunicar.png)
 
-<!-- TODO COLOCAR LINK -->
-[Próximo capítulo]()
+[Próximo capítulo](../tiposDeRelacionamento/tiposDeRelacionamento.md)
