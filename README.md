@@ -1,3 +1,5 @@
+![header](https://github.com/andreluispy/assembly4noobs/blob/main/header-4noobs.svg)
+
 # POO4Noobs
 
 1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
