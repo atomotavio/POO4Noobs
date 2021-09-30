@@ -18,6 +18,8 @@ Um objeto não pode ser simplesmente criado, ele precisa de um modelo para ser s
 
 Outro conceito importante que vai nos auxiliar no entendimento da POO é o de evento. Eventos são interações (parâmetros) internas e externas que auxiliam na execução de um programa.
 
+![paradigma orientado a objetos](img/POO.jpg)
+
 ## [História](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_orientada_a_objetos)
  
  Apesar de ter surgido na década de 1970, acabou se popularizando em meados de 1990. Os principais conceitos da POO tem origem na Simula 67, uma linguagem de programação desenhada para fazer simulações.
@@ -29,4 +31,5 @@ Outro conceito importante que vai nos auxiliar no entendimento da POO é o de ev
  - C
  - C#
 
+// TODO arrumar link
 [Próximo capítulo](pilaresDaPOO/pilaresDaPOO.md)
