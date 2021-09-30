@@ -1,6 +1,6 @@
 # POO4Noobs
 
-1. O que é um paradigma de programaçao
+1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
 	- [História](paradigmasDeProgramacao/historia.md)
 	- Principais paradigmas e suas linguagens
 2. Introdução a POO
