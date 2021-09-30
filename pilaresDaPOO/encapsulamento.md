@@ -1,5 +1,7 @@
 # Encapsulamento
 
+![introducao](img/20944391.jpg)
+
 Para evitar o acesso a dados de forma indevida e evitar principalemente problemas relacionados a segurança, temos o segundo pilar da POO.
 
 Um exemplo disso seria por exemplo o saldo no banco. Se um usuário comum tiver acesso a esse dado e conseguir alterá-lo, poderia criar um problema enorme para a instituiçào, uma vez que ele pode colocar o saldo que quiser para si mesmo. Por isso é importante proteger a informação sensível.
