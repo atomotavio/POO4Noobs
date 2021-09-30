@@ -1,4 +1,4 @@
-<h1>POO4Noobs</h1>
+# POO4Noobs
 
 1. O que é um paradigma de programaçao
 	- História
@@ -12,5 +12,5 @@
 	- Encapsulamento
 5. Tipos de relacionamento
 
-<h2>Autores</h2>
-Mariana de Carvalho Trindade - [Instagram](https://instagram.com/detonagirl) [Twitter](https://twitter.com/detonagirl) [Linkedin](https://www.linkedin.com/in/carvalhomarianat/)
+## Autores
+**Mariana de Carvalho Trindade** - [Instagram](https://instagram.com/detonagirl) [Twitter](https://twitter.com/detonagirl) [Linkedin](https://www.linkedin.com/in/carvalhomarianat/)
