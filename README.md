@@ -4,11 +4,12 @@
 	- [História](paradigmasDeProgramacao/historia.md)
 2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
 3. [Pilares da programação orientada a objetos](pilaresDaPOO/pilaresDaPOO.md)
-	- Polimorfismo
-	- Herança
-	- Abstração
-	- Encapsulamento
-4. Tipos de relacionamento
+	- [Abstração](pilaresDaPOO/abstracao.md)
+	- [Encapsulamento](pilaresDaPOO/encapsulamento.md)
+	- [Herança](pilaresDaPOO/heranca.md)
+	- [Polimorfismo](pilaresDaPOO/polimorfismo.md)
+4. [Tipos de relacionamento](tiposDeRelacionamento/tiposDeRelacionamento.md)
+5. [Referencias bibliográficas](referencias/ReferenciasBibliograficas.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
