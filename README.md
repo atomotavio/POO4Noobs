@@ -2,6 +2,8 @@
 
 # POO4Noobs
 
+Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles que não sabem por onde começar a procurar mais sobre o assunto.
+
 1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
 	- [História](paradigmasDeProgramacao/historia.md)
 2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
