@@ -1,6 +1,6 @@
 # Abstração
 
-![](pilaresDaPOO/img/19199655.jpg)
+![programacao](img/19199655.jpg)
 
 Considerado por muitos como o primeiro pilar da POO. Consiste no conceito de criar uma classe geral e outras classes mais especificas a partir dela.
 
