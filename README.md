@@ -1,7 +1,7 @@
 # POO4Noobs
 
 1. O que é um paradigma de programaçao
-	- História
+	- [História](paradigmasDeProgramacao/historia.md)
 	- Principais paradigmas e suas linguagens
 2. Introdução a POO
 3. Principais conceitos da programação orientada a objetos
