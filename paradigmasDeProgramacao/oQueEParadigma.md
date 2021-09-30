@@ -1,6 +1,6 @@
 # O que é um paradigma de programação?
 
-![imagem](img\18941.jpg)
+![](img\18941.jpg)
 
 Para entendermos o que é a programação orientada a objetos, temos que entender o que são paradigmas de programação, como surgiram e sua importancia.
 
