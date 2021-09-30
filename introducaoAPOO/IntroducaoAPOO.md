@@ -31,5 +31,5 @@ Outro conceito importante que vai nos auxiliar no entendimento da POO é o de ev
  - C
  - C#
 
-// TODO arrumar link
+<!-- TODO arrumar link -->
 [Próximo capítulo](pilaresDaPOO/pilaresDaPOO.md)
