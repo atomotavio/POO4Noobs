@@ -1,5 +1,7 @@
 # Tipos de relacionamento
 
+![introducao](img/5220.jpg)
+
 Assim como no mundo real, no virtual objetos também pode se relacionar. E existem basicamente 3 tipos de relacionamento.
 
 A *associação* é o tipo mais comum de relacionamento e ocorre quando duas classes colaboram entre si. Nesse sentido a associação descreve os vínculos existentes entre as classes que interagem entre si. Seu objetivo principal é possibilitar a comunicação entre os objetos de duas classes. Ela pode ser tanto uni quanto bidirecional. No diagrama ela pode ser representada com uma seta ligando as duas classes.

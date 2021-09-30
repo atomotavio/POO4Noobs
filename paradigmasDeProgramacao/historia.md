@@ -1,5 +1,7 @@
 # História dos paradigmas de programação
 
+![introducao](img/11070.jpg)
+
 Antes de entendermos um pouco mais sobre POO, vamos falar de história, e de como um programa era desenvolvido até a disseminação da programação orientada a objetos.
 
 ## Programação estruturada (modelo procedural)
