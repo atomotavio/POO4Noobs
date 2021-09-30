@@ -15,3 +15,6 @@ As classes mães, que seriam as mais generalistas, são conhecidas também como 
 ## Herança simples e herança múltipla
 
 No caso de um objeto herdar apenas características de uma superclasse chamamos de herança simples. Porém também é possível que sejam herdadas características de mais de uma classe, a herança múltipla.
+
+<!-- TODO colocar link -->
+[Próximo capítulo]()
