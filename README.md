@@ -8,20 +8,24 @@ Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles 
 
 ### Requisitos:
 - Vontade de aprender;
-- **Não é necessário conhecimento prévio em uma linguagem de programação**
+- **Não é necessário conhecimento prévio em uma linguagem de programação.**
 
 ## Sumário
 
 1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
 	- [História](paradigmasDeProgramacao/historia.md)
+
 2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
   - [Diferenças entre POO e estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
+  
 3. [Pilares da programação orientada a objetos](pilaresDaPOO/pilaresDaPOO.md)
 	- [Abstração](pilaresDaPOO/abstracao.md)
 	- [Encapsulamento](pilaresDaPOO/encapsulamento.md)
 	- [Herança](pilaresDaPOO/heranca.md)
 	- [Polimorfismo](pilaresDaPOO/polimorfismo.md)
+  
 4. [Tipos de relacionamento](tiposDeRelacionamento/tiposDeRelacionamento.md)
+
 5. [Referencias bibliográficas](referencias/ReferenciasBibliograficas.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
