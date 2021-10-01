@@ -13,10 +13,10 @@ Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles 
 ## Sumário
 
 1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
-  - [História](paradigmasDeProgramacao/historia.md)
+	- [História](paradigmasDeProgramacao/historia.md)
 
 2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
-  - [POO X Programação estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
+	- [POO X Programação estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
   
 3. [Pilares da programação orientada a objetos](pilaresDaPOO/pilaresDaPOO.md)
 	- [Abstração](pilaresDaPOO/abstracao.md)
