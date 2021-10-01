@@ -16,7 +16,7 @@ Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles 
 	- [História](paradigmasDeProgramacao/historia.md)
 
 2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
-  - [Diferenças entre POO e estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
+  - [POO X Programação estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
   
 3. [Pilares da programação orientada a objetos](pilaresDaPOO/pilaresDaPOO.md)
 	- [Abstração](pilaresDaPOO/abstracao.md)
