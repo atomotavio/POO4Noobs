@@ -1,7 +1,5 @@
 # Diferença entre POO e programação estruturada
 
-![introducao](img/19362653.jpg)
-
 A grande diferença entre ambos os paradigmas está na forma como os dados são acessados. Enquanto na programação estruturada eles são acessados de forma global, na programação orientada a objetos eles são estruturados apenas aos objetos que os utilizam.
 
 Com isso ficam acessíveis somente aos seus métodos e não mais acessíveis a todas as funções como no paradigma estruturado.

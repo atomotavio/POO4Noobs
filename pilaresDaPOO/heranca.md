@@ -1,7 +1,5 @@
 # Herança
 
-![introducao](img/working-with-apps-and-a-cup-of-coffee.jpg)
-
 Herança, o terceiro pilar da POO, consiste na possibilidade de construir novas classes a partir de classes mais generalistas. É uma maneira de reutilizar código, já que podemos reaproveitar os atributos e métodos de classes já existentes para classes mais específicas dessa classe hierarquicamente superior.
 
 ![herança](img/POO.png)

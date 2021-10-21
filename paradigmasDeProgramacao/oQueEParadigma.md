@@ -1,7 +1,5 @@
 # O que é um paradigma de programação?
 
-![imagem](img/18941.jpg)
-
 Para entendermos o que é a programação orientada a objetos, temos que entender o que são paradigmas de programação, como surgiram e sua importancia.
 
 Paradigmas são modelagens de escrita que código. Eles podem ser aplicados a mais de uma linguagem. Existem linguagens que podem inclusive aceitar mais de um tipo de paradigma, como o Javascript por exemplo.
