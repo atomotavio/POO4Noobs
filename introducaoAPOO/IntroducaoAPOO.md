@@ -4,6 +4,30 @@
 
 Na programação orientada a objetos (POO), os objetos são organizados de acordo com características em comum, ou seja: classes, métodos e atributos. Dessa forma é mais fácil localizar, reutilizar e realizar a comunicação entre objetos.
 
+~~~Java
+public class Carro {
+    Double velocidade;
+    String modelo;
+
+    public Carro(String modelo) {
+        this.modelo = modelo;
+        this.velocidade = 0;
+    }
+
+    public void acelerar() {
+        /* código do carro para acelerar */
+    }
+
+    public void frear() {
+        /* código do carro para frear */
+    }
+
+    public void acenderFarol() {
+        /* código do carro para acender o farol */
+    }
+}
+~~~
+
 Ela foi desenvolvida como uma tentativa de aproximar o mundo real do mundo virtual.
 
 Na POO é implementado um conjunto de classes que definem os objetos presentes no sistema de software. Cada classe determina o comportamento (métodos) e os estados possíveis (atributos) de seus objetos, bem como seu relacionamento com os outros objetos.
