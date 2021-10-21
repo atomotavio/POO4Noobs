@@ -14,4 +14,17 @@ As classes mães, que seriam as mais generalistas, são conhecidas também como 
 
 No caso de um objeto herdar apenas características de uma superclasse chamamos de herança simples. Porém também é possível que sejam herdadas características de mais de uma classe, a herança múltipla.
 
+~~~Java
+// "extends" estabelece a relação de herança dom a classe Carro
+public class HondaFit extends Carro {
+
+    public HondaFit(MecanismoAceleracao mecanismoAceleracao) {
+        String modelo = "Honda Fit";
+        // chama o construtor da classe mãe, ou seja, da classe "Carro"
+        super(modelo, mecanismoAceleracao);
+    }
+}
+
+~~~
+
 [Próximo capítulo](polimorfismo.md)
