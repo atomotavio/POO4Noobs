@@ -67,4 +67,58 @@ public class Carro {
 
 ~~~
 
+~~~PHP
+Class Carro {
+    private $velocidade;
+    private $modelo;
+    private $mecanismoaceleracao;
+    private $cor;
+
+    /* Repare que o mecanismo de aceleração é inserido no carro ao ser construído, e
+        não o vemos nem podemos modificá-lo, isto é, não tem getter nem setter.
+        Já o "modelo" pode ser visto, mas não alterado. */
+    public function Carro($modelo, mecanismoaceleracao) {
+        $this->modelo = modelo;
+        $this->mecanismoaceleracao = mecanismoaceleracao;
+        $this->velocidade = 0;
+    }
+
+    public function acelerar() {
+        /* código do carro para acelerar */
+    }
+
+    public function frear() {
+        /* código do carro para frear */
+    }
+
+    public function acenderFarol() {
+        /* código do carro para acender o farol */
+    }
+
+    public function getVelocidade() {
+        return $this->velocidade;
+    }
+
+    private function setVelocidade() {
+        /* código para alterar a velocidade do carro */
+        /* Como só o próprio carro deve calcular a velocidade, 
+            esse método não pode ser chamado de fora, por isso é "private" */
+    }
+
+    public function getModelo() {
+        return $this->modelo;
+    }
+
+    public function getCor() {
+        return $this->cor;
+    }
+
+    /* podemos mudar a cor do carro quando quisermos */
+    public function setCor($cor) {
+        $this->cor = cor;
+    }
+}
+
+~~~
+
 [Próximo capítulo](heranca.md)

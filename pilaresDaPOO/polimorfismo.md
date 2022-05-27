@@ -22,6 +22,20 @@ public class Main {
 
 ~~~
 
+~~~PHP
+Class Main {
+    public function main(...args) {
+        $Automovel = new Moto("Yamaha XPTO-100", MecanismoDeAceleracaoDeMotos())
+        $Automovel = new Carro("Honda Fit", MecanismoDeAceleracaoDeCarros())
+        foreach ($Auto as $automovel) {
+            $Automovel->acelerar();
+            $Automovel->acenderFarol();
+        }
+    }
+}
+
+~~~
+
 ![comunicar](img/comunicar.png)
 
 [Próximo capítulo](../tiposDeRelacionamento/tiposDeRelacionamento.md)

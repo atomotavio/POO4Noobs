@@ -40,6 +40,30 @@ public class Carro {
 }
 ~~~
 
+~~~PHP
+Class Carro {
+    $velocidade;
+    $modelo;
+
+    public Carro($modelo) {
+        $this->modelo = modelo;
+        $this->velocidade = 0;
+    }
+
+    public function acelerar() {
+        /* código do carro para acelerar */
+    }
+
+    public function frear() {
+        /* código do carro para frear */
+    }
+
+    public function acenderFarol() {
+        /* código do carro para acender o farol */
+    }
+}
+~~~
+
 Outro conceito importante que vai nos auxiliar no entendimento da POO é o de evento. Eventos são interações (parâmetros) internas e externas que auxiliam na execução de um programa.
 
 ![paradigma orientado a objetos](img/POO.jpg)
@@ -54,6 +78,8 @@ Outro conceito importante que vai nos auxiliar no entendimento da POO é o de ev
  - Javascript
  - C
  - C#
+ - PHP
+ - entre outros
 
 
 [Próximo capítulo](diferencaPOOEstruturada.md)
