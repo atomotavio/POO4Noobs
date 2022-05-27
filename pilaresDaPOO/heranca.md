@@ -27,4 +27,16 @@ public class HondaFit extends Carro {
 
 ~~~
 
+~~~PHP
+// "extends" estabelece a relação de herança dom a classe Carro
+Class HondaFit extends Carro {
+
+    public function HondaFit(mecanismoaceleracao) {
+        $modelo = "Honda Fit";
+        // chama o construtor da classe mãe, ou seja, da classe "Carro"
+    }
+}
+
+~~~
+
 [Próximo capítulo](polimorfismo.md)
