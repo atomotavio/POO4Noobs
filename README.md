@@ -31,4 +31,4 @@ Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
 ## Autores
-**Mariana de Carvalho Trindade** - [Instagram](https://instagram.com/detonagirl) [Twitter](https://twitter.com/detonagirl) [Linkedin](https://www.linkedin.com/in/carvalhomarianat/)
+**Otávio de Carvalho Trindade** - [Instagram](https://instagram.com/atomotavio) [Twitter](https://twitter.com/atomotavio) [Linkedin](https://www.linkedin.com/in/atomotavio/)
