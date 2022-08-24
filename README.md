@@ -12,21 +12,21 @@ Repositório dedicado a introduzir o paradigma orientado a objetos para aqueles 
 
 ## Sumário
 
-1. [O que é um paradigma de programaçao](paradigmasDeProgramacao/oQueEParadigma.md)
-	- [História](paradigmasDeProgramacao/historia.md)
+1. [O que é um paradigma de programaçao](1-Paradigmas-de-programacao/1-O-que-e-paradigma.md)
+	- [História](1-Paradigmas-de-programacao/2-Historia.md)
 
-2. [Introdução a POO](introducaoAPOO/IntroducaoAPOO.md)
-	- [POO X Programação estruturada](introducaoAPOO/diferencaPOOEstruturada.md)
+2. [Introdução a POO](2-Introducao-POO/1-Introducao-POO.md)
+	- [POO X Programação estruturada](2-Introducao-POO/2-Poo-estruturada.md)
   
-3. [Pilares da programação orientada a objetos](pilaresDaPOO/pilaresDaPOO.md)
-	- [Abstração](pilaresDaPOO/abstracao.md)
-	- [Encapsulamento](pilaresDaPOO/encapsulamento.md)
-	- [Herança](pilaresDaPOO/heranca.md)
-	- [Polimorfismo](pilaresDaPOO/polimorfismo.md)
+3. [Pilares da programação orientada a objetos](3-Pilares-POO/1-Pilares-POO.md)
+	- [Abstração](3-Pilares-POO/2-Abstracao.md)
+	- [Encapsulamento](3-Pilares-POO/3-Encapsulamento.md)
+	- [Herança](3-Pilares-POO/4-Heranca.md)
+	- [Polimorfismo](3-Pilares-POO/5-Polimorfismo.md)
   
-4. [Tipos de relacionamento](tiposDeRelacionamento/tiposDeRelacionamento.md)
+4. [Tipos de relacionamento](4-Tipos-relacionamento/1-Tipos-relacionamento.md)
 
-5. [Referencias bibliográficas](referencias/ReferenciasBibliograficas.md)
+5. [Referencias bibliográficas](5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
