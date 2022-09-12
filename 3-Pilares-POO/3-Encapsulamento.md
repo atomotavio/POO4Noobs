@@ -121,4 +121,4 @@ Class Carro {
 
 ~~~
 
-[Próximo capítulo](heranca.md)
+[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/3-Pilares-POO/4-Heranca.md)
