@@ -39,4 +39,4 @@ Class HondaFit extends Carro {
 
 ~~~
 
-[Próximo capítulo](polimorfismo.md)
+[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/3-Pilares-POO/5-Polimorfismo.md)
