@@ -12,4 +12,4 @@ Apesar de todas as receitas de bolo te ensinarem a mesma coisa, cada uma tem seu
 
 Existem diversos paradigmas de programação, e se quiser saber um pouco mais sobre os principais, pode clicar [aqui](https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/). No próximo capitulo falaremos um pouco sobre o paradigma procedural e suas diferenças com relação ao POO, que é o foco desse 4Noobs.
 
-[Próximo capítulo](historia.md)
+[Próximo capítulo](2-Historia.md)
