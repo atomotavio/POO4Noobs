@@ -82,4 +82,4 @@ Outro conceito importante que vai nos auxiliar no entendimento da POO é o de ev
  - entre outros
 
 
-[Próximo capítulo](diferencaPOOEstruturada.md)
+[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/2-Introducao-POO/2-Poo-estruturada.md)
