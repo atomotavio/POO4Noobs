@@ -34,8 +34,8 @@ Class Main {
     }
 }
 
-~~~
+~~~~
 
 ![comunicar](img/comunicar.png)
 
-[Próximo capítulo](../tiposDeRelacionamento/tiposDeRelacionamento.md)
+[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/4-Tipos-relacionamento/1-Tipos-relacionamento.md)
