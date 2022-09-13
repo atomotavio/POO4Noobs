@@ -26,4 +26,4 @@ Já suas desvantagens são: sua difícil legibilidade, relacionamento indireto c
 
 Para mais informações sobre, [clique aqui](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa#Origens)
 
-[Próximo capítulo](1-Introducao-POO.md](https://github.com/atomotavio/POO4Noobs/blob/main/2-Introducao-POO/1-Introducao-POO.md)
+[Próximo capítulo](https://github.com/atomotavio/POO4Noobs/blob/main/2-Introducao-POO/1-Introducao-POO.md)
