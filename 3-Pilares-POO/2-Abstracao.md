@@ -9,4 +9,4 @@ Segundo o conceito de generalização, a classe filha pode repassar seus método
 Como no exemplo, temos uma classe geral que seria a classe de veículos, e a partir de caracteristicas em comum aos veiculos, cria-se classes mais especificas para cada tipo de veículo: carro, caminhão e avião.
 
 
-[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/3-Pilares-POO/3-Encapsulamento.md)
+[Próximo capítulo](3-Encapsulamento.md)
