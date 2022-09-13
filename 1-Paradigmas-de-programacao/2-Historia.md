@@ -22,8 +22,8 @@ Alguns exemplos de linguagens que podem utilizar esse paradigma são:
 
 As principais vantagens desse paradigma são: sua eficiencia, o fato de ser bem estabelecido visto que é o mais antigo de todos, a modelagem natural de aplicações do mundo real, sua tipagem fraca e flexivel e seu entendimento fácil (o que pode ser ruim), tanto que linguagens procedurais sao utilizadas em cursos introdutórios de programação.
 
-Já suas desvantagens são: sua difícil legibilidade, relacionamento indireto com a E/S, foco em como a tarefa deve ser realizada e nao no que deve ser realizado, gera codigos confusos com tratamento dos dados misturados ao comportamento do programa.
+Já suas desvantagens são: sua difícil legibilidade, relacionamento indireto com a E/S, foco em como a tarefa deve ser realizada e não no que deve ser realizado, gera códigos confusos com tratamento dos dados misturados ao comportamento do programa.
 
 Para mais informações sobre, [clique aqui](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa#Origens)
 
-[Próximo capítulo](https://github.com/atomotavio/POO4Noobs/blob/main/2-Introducao-POO/1-Introducao-POO.md)
+[Próximo capítulo](1-Introducao-POO.md)
