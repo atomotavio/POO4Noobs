@@ -8,4 +8,4 @@ Com isso o acesso é dado de modo orientado, apesar disso, a estrutura é maleav
 
 ![diferenca poo e estruturada](img/image001.png)
 
-[Próximo capítulo](https://github.com/jeimoal/POO4Noobs/blob/main/3-Pilares-POO/1-Pilares-POO.md)
+[Próximo capítulo](https://github.com/atomotavio/POO4Noobs/blob/main/3-Pilares-POO/1-Pilares-POO.md)
