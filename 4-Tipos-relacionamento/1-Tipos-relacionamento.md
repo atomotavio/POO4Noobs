@@ -14,4 +14,4 @@ Já a multiplicidade busca estabelecer como as classes que formam uma associaç�
  
 ![multiplicidade](img/multiplicadade.jpg)
 
-[Proximo capitulo](../referencias/ReferenciasBibliograficas.md)
+[Proximo capitulo](https://github.com/atomotavio/POO4Noobs/blob/main/5-Referencias-bibliograficas/1-Referencias-bibliograficas.md)

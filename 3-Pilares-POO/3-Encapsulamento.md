@@ -121,4 +121,4 @@ Class Carro {
 
 ~~~
 
-[Próximo capítulo](heranca.md)
+[Próximo capítulo](4-Heranca.md)
